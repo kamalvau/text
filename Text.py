@@ -43,7 +43,7 @@ loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 
 def linex():
 	os.system('echo  "\n ======================================\n" | lolcat -a -d 2 -s 50')
 def logo():
-	os.system('echo "\n  
+	os.system('echo  "\n | lolcat -a -d 2 -s 50')  
 ░█─▄▀ ─█▀▀█ ░█▀▄▀█ ─█▀▀█░█─── 
 ░█▀▄─ ░█▄▄█ ░█░█░█ ░█▄▄█░█─── 
 ░█─░█ ░█─░█ ░█──░█ ░█─░█░█▄▄█ 
@@ -52,7 +52,9 @@ def logo():
 ─░█░█─ ░█▄▄█ ░█─░█ 
 ──▀▄▀─ ░█─░█ ─▀▄▄▀
 ╔═════════════════════════╗
-║\n    ║ TOOL NAME: { B-B H4CKER }         ║  ║\n    ║ AUTHOR   : MD KAMAL HOSSEN  ║     ║\n    ║ YOUTUBE    :  B-B H4CKER...          ║ ╚═════════════════════════╝ | lolcat -a -d 2 -s 50')	
+║\n    ║ TOOL NAME: { B-B H4CKER }         ║  ║\n    ║ AUTHOR   : MD KAMAL HOSSEN  ║     ║\n    ║ YOUTUBE    :  B-B H4CKER...          ║ ╚═════════════════════════╝ 
+
+	
 
 def main():
 	os.system("clear")
